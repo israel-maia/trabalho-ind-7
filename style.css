@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 350px;
+    background-color: rgb(253, 215, 165);
+}
+input{
+    height: 16px;
+    width: 108px;
+    margin-top: 10px;
+}
+button{
+    display: flex;
+    margin-top: 10px;
+}
